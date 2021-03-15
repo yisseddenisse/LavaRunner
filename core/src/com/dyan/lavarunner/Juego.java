@@ -21,4 +21,6 @@ public class Juego extends Game {
 		//Muestra la primera pantalla
 		setScreen(new PantallaMenu(this));
 	} //Esta es la primera pantalla visible
+
+	//Este es un comentario de amauri 
 }
