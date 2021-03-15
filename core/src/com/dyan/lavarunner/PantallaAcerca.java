@@ -25,7 +25,7 @@ public class PantallaAcerca extends Pantalla {
     public void pause() {
 
     }
-
+    /// Denisse
     @Override
     public void resume() {
 
